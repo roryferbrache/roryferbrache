@@ -1,6 +1,8 @@
 ## Welcome to my profile!
 
 ### 🔭 I’m currently working on a script to generate static web applications
+<img width="823" alt="Screenshot 2024-02-26 at 21 11 15" src="https://github.com/roryferbrache/roryferbrache/assets/106960452/48d01911-468f-4905-9a7c-2a24bd753290">
+
 #### Why?
 Github generously provides free hosting for static web apps. This puts people one step closer to owning their own website.
 
@@ -12,7 +14,7 @@ It's also a great way for me and my friends to practice our coding skills (and p
 #### How?
 We're keeping it simple by using Vanilla JavaScript, HTML and CSS for the frontend. Using web components and pollen css to keep it uniform.
 
-For the functionality, we'll be using [combinators](https://en.wikipedia.org/wiki/Combinatory_logic) to add a search function and display the rest in a simple manner.
+For the functionality, we'll be using substring matching to add a search function at the start, [fuzzy matching](https://en.wikipedia.org/wiki/Approximate_string_matching) as a stretch goal and display the rest of the generated web app in a simple manner.
 
 An interesting point of discussion is how we'll load our data in order to keep load time down, so stay tuned for that!
 
